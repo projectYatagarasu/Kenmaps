@@ -1,0 +1,63 @@
+7, SELECT
+7,8,9,10,11,12,13
+176378,180355,CX CY
+600,SIZEX
+1,SSIZE
+1,0,COPYSCALE
+1,MAGSTEP
+1.0000,MAGUNIT
+1,UpDownPosition
+0.020309,scale
+-1,CBPrefBorder
+-1,CBTownBorder
+0,CBNTownBorder
+0,CBTownName
+0,CBOldTown
+0,CBLabel
+0,CBMainDoubleName
+0,CBScale
+0,CBLake
+0,CBLonLat
+0,CBDo
+0,CB1do
+0,CBExp
+-1,CBKu
+-1,CBKuDot
+0,CBCityName
+-1,CBKuName
+0,paint_rep
+0x00ffffe1
+0x00c0e474
+0x00ffff00
+0x0000ff00
+0x00ff6f6f
+0x0000ffff
+0x008080ff
+0x00ff00ff
+0x001828ef
+0x00000000
+0x00546900
+0x00546900
+0x00546900
+0x00546900
+0x00546900
+0x00546900
+0x00546900
+0,ROWCOUNT
+0,hanrei
+0,180355,350,550,Scale CY scl_x1 scly1
+0,STAMP_CT
+0,//addline file number
+0,//addline paintline
+0,//Kyorien nummber
+16711680,CoastColor
+255,PrefColor
+2672688,TownColor
+16777185,BackColor
+16744576,WakuColor
+9421963,KuColor
+0,DoColor
+12632256,FunColor
+0,CBRailLine
+0,CBEki
+0,CBMain
